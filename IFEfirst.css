@@ -1,0 +1,267 @@
+*{padding: 0;margin: 0;}
+body{
+	font-family: "微软雅黑";
+}
+.header img{
+	height: 500px;
+	width:1350px;
+	/*margin-right: auto;
+	margin-left: auto;*/
+	text-align: center;
+}
+
+
+/*------------------conter---------------*/
+
+
+.conter div{
+	height: 100%;
+	height: 500px;
+/*	background-color: #ccc;*/
+	margin-top: 1px;
+}
+
+/*---------------------hxy---------------------*/
+#hxy{
+	padding-top: 1px;
+}
+#circle {
+    width: 300px;
+    height: 300px;
+    -moz-border-radius: 150px;
+    -webkit-border-radius: 150px;
+    border-radius: 150px;
+    background-image: url(img/lm.png);
+    margin-left: 80px;
+    margin-top: 50px;
+    float: left;
+}
+#center{
+	height: 500px;
+/*	background-color: red;*/
+	width: 30%;
+	float: left;
+	margin-left: 50px;
+}
+.name{
+	margin-top: 50px;
+	font-size: 40px;
+}
+.jj{
+	margin-top: 30px;
+	font-size: 20px;
+}
+.tm{
+	margin-top: 30px;
+	font-size: 20px;
+}
+.bb{
+	margin-top: 20px;
+	font-size: 20px;
+}
+#jindu{
+	height: 500px;
+	width: 38%;
+/*	background-color: red;*/
+	float: left;
+}
+#tt{
+	height: 50px;
+	width: 200px;
+	margin-top:30px;
+	margin-left: 20px;
+	font-size: 40px; 
+}
+#cen{
+	height: 420px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+#div1{
+	width: 80%;
+	height: 20px;
+	background-color: #dfeddf;
+	/*float: left;*/
+}
+#div1 div{
+	width: 70%;
+	height: 20px;
+	background-color: #ccc;
+}
+#div2{
+	width: 80%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#div2 div{
+	width: 60%;
+	height: 20px;
+	background-color: #78b3af;
+}
+#div3{
+	width: 80%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#div3 div{
+	width: 20%;
+	height: 20px;
+	background-color: #8d9d83;
+}
+#div4{
+	width: 80%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#div4 div{
+	width: 30%;
+	height: 20px;
+	background-color: #4f504f;
+}
+/*-------------hxy-------------------------*/
+
+
+/*-------------xiaoyu-------------------------*/
+.xiayu{
+	height: 450px;
+	width: 100%;
+	margin:0 auto;
+}
+/*.touxiang{
+	width: 300px;
+	height: 400px;
+	position: relative;
+	margin-left: 80px;
+	margin-top: 50px;
+	float: left;
+}*/
+#photo{
+   width:300px;
+   height: 300px;
+   margin-right:80px;
+   margin-top: 50px;
+   border-radius: 150px;
+   float: right;
+}
+.word{
+	position: relative;
+	width: 400px;
+	height: 500px;
+	text-indent:40px;
+	font-size: 20px;
+	left: 50px;
+	font-weight: 400;
+	float: left;
+}
+#xuexiao{
+	margin-top:65px;
+	font-size:40px;
+	font-weight:900;
+	font-family:黑体;
+}
+.status{
+	height: 500px;
+	position: relative;
+	margin-left:100px;
+	margin-top: 0px;
+	font-family:黑体;
+	font-weight:600;
+	float: left;
+}
+#title{
+	font-size: 40px;
+	font-family:黑体;
+	font-weight: 600px;
+	margin-top: 50px;
+}
+#html-study{
+	width: 250%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#html-study div{
+	width: 60%;
+	height: 20px;
+	background-color: #ccc;
+}
+
+#css-study{
+	width: 250%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#css-study div{
+	width: 40%;
+	height: 20px;
+	background-color: #78b3af;
+}
+#js-study{
+	width: 250%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#js-study div{
+	width: 10%;
+	height: 20px;
+	background-color: #8d9d83;
+}
+#ps-study{
+	width: 250%;
+	height: 20px;
+	background-color: #dfeddf;
+}
+#ps-study div{
+	width: 15%;
+	height: 20px;
+	background-color: #4f504f;
+}
+
+/*-------------xiaoyu-------------------------*/
+
+
+/*-------------footer-------------------------*/
+
+
+.footer{
+	height: 300px;
+	width: 100%;
+	background-color: #ccc;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	margin-top:1px;
+}
+.top{
+	height: 200px;
+}
+.wx .wb{
+	height: 150px;
+	width: 250px;
+	float: left;
+}
+.wx img{
+	width: 150px;
+	height: 150px;
+	display: block;
+	float: left;
+	margin-top: 50px;
+	margin-left: 300px;
+}
+.wb img{
+	width: 150px;
+	height: 150px;
+	display: block;
+	float: left;
+	margin-top: 50px;
+	margin-left: 250px;
+}
+.zz{
+	float: left;
+	margin-top: 100px;
+	margin-left: 10px;
+}
+.us{
+	height: 16px;
+	width: 300px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
