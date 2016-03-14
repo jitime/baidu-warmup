@@ -1,13 +1,13 @@
 *{padding: 0;margin: 0;}
 body{
-	font-family: "微软雅黑";
+    /*font-family: "微软雅黑";*/
 }
 .header img{
-	height: 500px;
-	width:1350px;
-	/*margin-right: auto;
-	margin-left: auto;*/
-	text-align: center;
+    height: 500px;
+    width:1350px;
+    /*margin-right: auto;
+    margin-left: auto;*/
+    text-align: center;
 }
 
 
@@ -15,21 +15,19 @@ body{
 
 
 .conter div{
-	height: 100%;
-	height: 500px;
-/*	background-color: #ccc;*/
-	margin-top: 1px;
+    height: 100%;
+    height: 500px;
+    /*	background-color: #ccc;*/
+    margin-top: 1px;
 }
 
 /*---------------------hxy---------------------*/
 #hxy{
-	padding-top: 1px;
+    padding-top: 1px;
 }
 #circle {
     width: 300px;
     height: 300px;
-    -moz-border-radius: 150px;
-    -webkit-border-radius: 150px;
     border-radius: 150px;
     background-image: url(img/lm.png);
     margin-left: 80px;
@@ -37,95 +35,95 @@ body{
     float: left;
 }
 #center{
-	height: 500px;
-/*	background-color: red;*/
-	width: 30%;
-	float: left;
-	margin-left: 50px;
+    height: 500px;
+    /*	background-color: red;*/
+    width: 30%;
+    float: left;
+    margin-left: 50px;
 }
 .name{
-	margin-top: 50px;
-	font-size: 40px;
+    margin-top: 50px;
+    font-size: 40px;
 }
 .jj{
-	margin-top: 30px;
-	font-size: 20px;
+    margin-top: 30px;
+    font-size: 20px;
 }
 .tm{
-	margin-top: 30px;
-	font-size: 20px;
+    margin-top: 30px;
+    font-size: 20px;
 }
 .bb{
-	margin-top: 20px;
-	font-size: 20px;
+    margin-top: 20px;
+    font-size: 20px;
 }
 #jindu{
-	height: 500px;
-	width: 38%;
-/*	background-color: red;*/
-	float: left;
+    height: 500px;
+    width: 38%;
+    /*	background-color: red;*/
+    float: left;
 }
 #tt{
-	height: 50px;
-	width: 200px;
-	margin-top:30px;
-	margin-left: 20px;
-	font-size: 40px; 
+    height: 50px;
+    width: 200px;
+    margin-top:30px;
+    margin-left: 20px;
+    font-size: 40px;
 }
 #cen{
-	height: 420px;
-	margin-left: 20px;
-	margin-top: 30px;
+    height: 420px;
+    margin-left: 20px;
+    margin-top: 30px;
 }
 #div1{
-	width: 80%;
-	height: 20px;
-	background-color: #dfeddf;
-	/*float: left;*/
+    width: 80%;
+    height: 20px;
+    background-color: #dfeddf;
+    /*float: left;*/
 }
 #div1 div{
-	width: 70%;
-	height: 20px;
-	background-color: #ccc;
+    width: 70%;
+    height: 20px;
+    background-color: #ccc;
 }
 #div2{
-	width: 80%;
-	height: 20px;
-	background-color: #dfeddf;
+    width: 80%;
+    height: 20px;
+    background-color: #dfeddf;
 }
 #div2 div{
-	width: 60%;
-	height: 20px;
-	background-color: #78b3af;
+    width: 60%;
+    height: 20px;
+    background-color: #78b3af;
 }
 #div3{
-	width: 80%;
-	height: 20px;
-	background-color: #dfeddf;
+    width: 80%;
+    height: 20px;
+    background-color: #dfeddf;
 }
 #div3 div{
-	width: 20%;
-	height: 20px;
-	background-color: #8d9d83;
+    width: 20%;
+    height: 20px;
+    background-color: #8d9d83;
 }
 #div4{
-	width: 80%;
-	height: 20px;
-	background-color: #dfeddf;
+    width: 80%;
+    height: 20px;
+    background-color: #dfeddf;
 }
 #div4 div{
-	width: 30%;
-	height: 20px;
-	background-color: #4f504f;
+    width: 30%;
+    height: 20px;
+    background-color: #4f504f;
 }
 /*-------------hxy-------------------------*/
 
 
 /*-------------xiaoyu-------------------------*/
 .xiayu{
-	height: 450px;
-	width: 100%;
-	margin:0 auto;
+    height: 450px;
+    width: 100%;
+    margin:0 auto;
 }
 /*.touxiang{
 	width: 300px;
@@ -135,133 +133,352 @@ body{
 	margin-top: 50px;
 	float: left;
 }*/
-#photo{
-   width:300px;
-   height: 300px;
-   margin-right:80px;
-   margin-top: 50px;
-   border-radius: 150px;
-   float: right;
+.photo{
+    width:300px;
+    height: 300px;
+    margin-right:80px;
+    margin-top: 50px;
+    border-radius: 150px;
+    float: right;
 }
 .word{
-	position: relative;
-	width: 400px;
-	height: 500px;
-	text-indent:40px;
-	font-size: 20px;
-	left: 50px;
-	font-weight: 400;
-	float: left;
+    position: relative;
+    width: 400px;
+    height: 500px;
+    text-indent:40px;
+    font-size: 20px;
+    left: 50px;
+    font-weight: 400;
+    float: left;
 }
-#xuexiao{
-	margin-top:65px;
-	font-size:40px;
-	font-weight:900;
-	font-family:黑体;
+.xuexiao{
+    margin-top:65px;
+    font-size:40px;
+    font-weight:900;
+    font-family:"黑体";
 }
 .status{
-	height: 500px;
-	position: relative;
-	margin-left:100px;
-	margin-top: 0px;
-	font-family:黑体;
-	font-weight:600;
-	float: left;
+    height: 500px;
+    position: relative;
+    margin-left:100px;
+    margin-top: 0;
+    font-family:"黑体";
+    font-weight:600;
+    float: left;
 }
-#title{
-	font-size: 40px;
-	font-family:黑体;
-	font-weight: 600px;
-	margin-top: 50px;
+.title{
+    font-size: 40px;
+    font-family:"黑体";
+    /*font-weight: 600px;*/
+    margin-top: 50px;
 }
 #html-study{
-	width: 250%;
-	height: 20px;
-	background-color: #dfeddf;
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
 }
 #html-study div{
-	width: 60%;
-	height: 20px;
-	background-color: #ccc;
+    width: 60%;
+    height: 20px;
+    background-color: #ccc;
 }
 
 #css-study{
-	width: 250%;
-	height: 20px;
-	background-color: #dfeddf;
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
 }
 #css-study div{
-	width: 40%;
-	height: 20px;
-	background-color: #78b3af;
+    width: 40%;
+    height: 20px;
+    background-color: #78b3af;
 }
 #js-study{
-	width: 250%;
-	height: 20px;
-	background-color: #dfeddf;
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
 }
 #js-study div{
-	width: 10%;
-	height: 20px;
-	background-color: #8d9d83;
+    width: 10%;
+    height: 20px;
+    background-color: #8d9d83;
 }
 #ps-study{
-	width: 250%;
-	height: 20px;
-	background-color: #dfeddf;
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
 }
 #ps-study div{
-	width: 15%;
-	height: 20px;
-	background-color: #4f504f;
+    width: 15%;
+    height: 20px;
+    background-color: #4f504f;
 }
 
 /*-------------xiaoyu-------------------------*/
+
+
+/*-------------shiliu-------------------------*/
+#sl {
+    height: 500px;
+    width:100%;
+}
+#sl img{
+    display: block;
+    width: 300px;
+    height:300px;
+    border-radius:150px;
+    float:left;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.study1{
+    padding: 0;
+    margin-left:60px;
+    width: 300px;
+    height:500px;
+    float: left;
+}
+.study2{
+    padding: 0;
+    margin-left: 70px;
+    width: 300px;
+    height:500px;
+    float: left;
+}
+
+
+.study1 h2 {
+    font-family: 'Nunito-Bold';
+    font-size: 2.5em;
+    text-transform: capitalize;
+    color: #393b3a;
+}
+.study1 h3 {
+    font-family: 'Nunito-Bold';
+    font-size: 1.8em;
+    text-transform: capitalize;
+    color: #393b3a;
+}
+.study1 p {
+    font-size: 1.2em;
+    color: #393b3a;
+    padding: 1.1em 0 0 0;
+}
+.study2 h3 {
+    font-family: 'Nunito-Bold';
+    font-size: 1.8em;
+    text-transform: capitalize;
+    color: #393b3a;
+}
+.study2 h4 {
+    font-size: 1.5em;
+    text-transform: capitalize;
+    color: rgb(29, 26, 26);
+}
+
+
+#progress1 {
+    height: 20px;
+    width: 500px;
+    background-color: #f5f5f5;
+}
+#progress1 div{
+    height:20px;
+    width:80%;
+    background-color:#8C9D82;
+}
+#progress2 {
+    height: 20px;
+    width: 500px;
+    background-color:#f5f5f5 ;
+}
+#progress2 div{
+    height:20px;
+    width:60%;
+    background-color: #78B3AE;
+}
+#progress3 {
+    height: 20px;
+    width: 500px;
+    background-color: #f5f5f5;
+}
+#progress3 div{
+    height:20px;
+    width:40%;
+    background-color: #ACB5B8;
+}
+#progress4 {
+    height:20px;
+    width: 500px;
+    background-color: #f5f5f5;
+}
+#progress4 div{
+    height:20px;
+    width:20%;
+    background-color: #DEECDF;
+}
+
+/*-------------shiliu-------------------------*/
+
+/*-------------shifan------------------------*/
+
+.sf{
+    height: 500px;
+    position: relative;
+    margin-left:100px;
+    margin-top: 0;
+    font-family:"黑体";
+    font-weight:600;
+    float: left;
+}
+#html-study1{
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
+}
+#html-study1 div{
+    width: 70%;
+    height: 20px;
+    background-color: #ccc;
+}
+
+#css-study1{
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
+}
+#css-study1 div{
+    width: 40%;
+    height: 20px;
+    background-color: #78b3af;
+}
+#js-study1{
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
+}
+#js-study1 div{
+    width: 30%;
+    height: 20px;
+    background-color: #8d9d83;
+}
+#ps-study1{
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
+}
+#ps-study1 div{
+    width: 25%;
+    height: 20px;
+    background-color: #4f504f;
+}
+
+/*-------------shifan-------------------------*/
+
+
+
+/*-------------cy------------------------*/
+
+.cy{
+    height: 500px;
+    position: relative;
+    margin-left:100px;
+    margin-top: 0;
+    font-family:"黑体";
+    font-weight:600;
+    float: left;
+}
+
+
+#cytech{
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
+}
+#cytech div{
+    width: 20%;
+    height: 20px;
+    background-color: #ccc;
+}
+
+#cyeat{
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
+}
+#cyeat div{
+    width: 65%;
+    height: 20px;
+    background-color: #78b3af;
+}
+#cyanime{
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
+}
+#cyanime div{
+    width: 100%;
+    height: 20px;
+    background-color: #8d9d83;
+}
+#cydorama{
+    width: 250%;
+    height: 20px;
+    background-color: #dfeddf;
+}
+#cydorama div{
+    width: 75%;
+    height: 20px;
+    background-color: #4f504f;
+}
+
+/*-------------cy-------------------------*/
+
 
 
 /*-------------footer-------------------------*/
 
 
 .footer{
-	height: 300px;
-	width: 100%;
-	background-color: #ccc;
-	font-size: 16px;
-	font-family: "微软雅黑";
-	margin-top:1px;
+    height: 300px;
+    width: 100%;
+    background-color: #ccc;
+    font-size: 16px;
+    /*font-family: "微软雅黑";*/
+    margin-top:1px;
 }
 .top{
-	height: 200px;
+    height: 200px;
 }
 .wx .wb{
-	height: 150px;
-	width: 250px;
-	float: left;
+    height: 150px;
+    width: 250px;
+    float: left;
 }
 .wx img{
-	width: 150px;
-	height: 150px;
-	display: block;
-	float: left;
-	margin-top: 50px;
-	margin-left: 300px;
+    width: 150px;
+    height: 150px;
+    display: block;
+    float: left;
+    margin-top: 50px;
+    margin-left: 300px;
 }
 .wb img{
-	width: 150px;
-	height: 150px;
-	display: block;
-	float: left;
-	margin-top: 50px;
-	margin-left: 250px;
+    width: 150px;
+    height: 150px;
+    display: block;
+    float: left;
+    margin-top: 50px;
+    margin-left: 250px;
 }
 .zz{
-	float: left;
-	margin-top: 100px;
-	margin-left: 10px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 10px;
 }
 .us{
-	height: 16px;
-	width: 300px;
-	margin: 0 auto;
-	margin-top: 50px;
+    height: 16px;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
 }
